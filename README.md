@@ -147,6 +147,4 @@ This helps debug and improve RAG performance.
 * Retrieval score thresholds
 
 ---
----
-
 ⭐ If you find this project useful, feel free to star the repository!
