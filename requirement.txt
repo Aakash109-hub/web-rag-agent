@@ -12,7 +12,5 @@ sentence-transformers
 # Vector store
 faiss-cpu
 
-# PD
-
 # UI
 streamlit
